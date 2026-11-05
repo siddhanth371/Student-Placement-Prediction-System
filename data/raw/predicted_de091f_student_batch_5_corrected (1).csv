@@ -1,0 +1,6 @@
+Gender,Branch,Degree,English Proficiency,Age,CGPA,10th Percentage,12th Percentage,Backlogs,Attendance,Technical Skills,Programming Score,Aptitude Score,Communication Skills,Soft Skills,Projects Completed,Internships,Hackathons,Certifications,Workshops,Leadership Score,Resume Score,Interview Score,Placement_Probability_%,Predicted_Placement_Status,Placement_Readiness_Score
+male,cse,be,high,22,8.3,84,73,0,75,80,85,75,78,80,7,1,2,3,2,70,80,78,64.14,Placed,75.1
+male,eee,be,high,23,8.5,99,77,1,56,70,87,67,23,99,5,4,1,1,1,50,78,56,53.33,Placed,79.7
+female,cse,m.tech,medium,22,9.9,88,89,0,89,73,82,82,62,45,4,3,2,1,1,99,86,76,74.93,Placed,85.9
+female,cse,be,high,21,8.9,76,99,0,83,81,91,74,81,67,3,7,1,5,2,77,45,88,74.15,Placed,83.2
+male,cse,be,high,21,7.8,99,79,0,87,86,85,84,97,77,4,2,3,4,2,66,89,88,68.97,Placed,89.8
